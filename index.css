@@ -1,0 +1,42 @@
+#color_squares{
+    display: grid;
+    grid-template-columns: 225px 225px;
+    row-gap: 20px;
+    column-gap: 20px;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+
+#display{
+    background-color: white;
+    font-size: 5rem;
+    text-align: center;
+    border: 2px;
+}
+
+#red{
+    background-color: red;
+    height: 200px;
+    width: 225px;
+}
+
+#yellow{
+    background-color: yellow;
+    height: 200px;
+    width: 225px;
+}
+
+#blue{
+    background-color: blue;
+    height: 200px;
+    width: 225px;
+}
+
+#green{
+    background-color: green;
+    height: 200px;
+    width: 225px;
+}
+
+
