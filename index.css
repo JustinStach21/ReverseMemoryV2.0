@@ -7,36 +7,45 @@
     margin-top: 50px;
 }
 
+#Score-Display{
+    display: grid;
+    place-items: center;
+}
+
 
 #display{
     background-color: white;
-    font-size: 5rem;
+    font-size: 50px;
     text-align: center;
-    border: 2px;
+    border: 5px;
 }
 
 #red{
     background-color: red;
     height: 200px;
     width: 225px;
+    border-radius: 20px;
 }
 
 #yellow{
     background-color: yellow;
     height: 200px;
     width: 225px;
+    border-radius: 20px;
 }
 
 #blue{
     background-color: blue;
     height: 200px;
     width: 225px;
+    border-radius: 20px;
 }
 
 #green{
     background-color: green;
     height: 200px;
     width: 225px;
+    border-radius: 20px;
 }
 
 
